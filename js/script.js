@@ -52,4 +52,5 @@ function convertToFahrenheit() {
 
     var sectionF = document.getElementById("KeteranganFahrenheitSection");
     sectionF.style.display = 'none';
+    
   }
